@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\projects\\cvut dz\\lpe"
+		},
+		{
+			"name": "lpe_sem",
+			"path": "D:\\projects\\cvut dz\\lpe\\sem\\lpe_sem"
+		},
+		{
+			"name": "hall_sensor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
